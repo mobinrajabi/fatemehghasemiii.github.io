@@ -1,16 +1,24 @@
 
  <div dir="rtl">
- <img src="pic.jpeg">
+ <img src="">
  <br>
  درباره من
  <br>
- سلام من فاطمه قاسمی نیاسر هستم متولد آبان 78و در حاضر دانشجوی مهندسی کامپیوتر هستم
+  من مبین رجبی هستم متولد اردیبهشت 79و در حاضر دانشجوی مهندسی کامپیوتر هستم
  <br>
  مهارت ها
  <br>
-  نتورک پلاس، لینوکس،جاوا اسکریپت،پاور پوینت،اکسل،وُرد،فتوشاپ
+  Photoshop
+illustrator
+adobe xd
+after effect
+figma
+social media
+corel draw
+sketch
+digital paint
  <br>
- پست الکترونیک: fatemehghasemi78780@gmail.com
+ پست الکترونیک:mobinrj7279@gmail.com
  <br>
  شهر محل سکونت : تهران
  <br>
