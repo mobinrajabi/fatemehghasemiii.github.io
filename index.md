@@ -1,10 +1,10 @@
 ### fatemehghasemi Niyasar
-<img src="pic.jpeg">
+<img src="">
 
 ### intro
 
 
-+ Birthdate 1999,11,9
++ Birthdate 2000,4,26
 + Bachelor
 + Now i am a Bachelors students in computer Engineering
 + Iran,Tehran province 
@@ -13,13 +13,15 @@
 
 
 
-+ network plus
-+ linux 
-+ java script
-+ word
-+ PowerPoint 
-+ Excel
 + Photoshop
++ illustrator 
++ adobe xd
++ after effect
++ figma 
++ social media
++ corel draw
++ sketch
++ digital paint
 
 ### Behavioral strengths
 
@@ -32,10 +34,9 @@
 ### Education
 
 
-+ diploma: froq andishe High School
- -2017
++ diploma: 2018
 + Bachelor of science: Computer Engineering 
-+  -2018, Payam Noor University of Tehran
++  -2019, Payam Noor University of Tehran
 
 ### Other Skills
 
@@ -58,14 +59,12 @@
 ### Social Media
 
 
-+ https://facebook.com/FatemehGhasemi 
-+ https://Instagram.com/miss.f7420
-+ fatemehghasemi78780@gmail.com 
++ mobinrj7279@gmail.com 
  
 
 
 
 
 [رزومه فارسی](/resume-fa)
-<br>
-<a href="http://s16.picofile.com/file/8412117484/%D8%B1%D8%B2%D9%88%D9%85%D9%87_%D9%81%D8%A7%D8%B7%D9%85%D9%87_%D9%82%D8%A7%D8%B3%D9%85%DB%8C_%D9%86%DB%8C%D8%A7%D8%B3%D8%B1.pdf.html">Download resume</a>
+
+
