@@ -16,7 +16,7 @@
  + social media
  + corel draw
  + sketch
- + digital paint
+  digital paint
  <br>
  پست الکترونیک:mobinrj7279@gmail.com
  <br>
