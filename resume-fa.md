@@ -1,6 +1,6 @@
 
  <div dir="rtl">
- <img src="pic.png">
+ <img src="">
  <br>
  درباره من
  <br>
@@ -8,15 +8,15 @@
  <br>
  مهارت ها
  <br>
-  Photoshop
-illustrator
-adobe xd
-after effect
-figma
-social media
-corel draw
-sketch
-digital paint
+ + Photoshop
+ + illustrator
+ + adobe xd
+ + after effect
+ + figma
+ + social media
+ + corel draw
+ + sketch
+ + digital paint
  <br>
  پست الکترونیک:mobinrj7279@gmail.com
  <br>
